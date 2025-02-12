@@ -1,0 +1,3 @@
+Project Title: Instagram User Analytics Using MySQL
+
+This project analyzes Instagram user data to extract key insights for marketing and investor decision-making. Using MySQL, I performed data extraction, sorting, and querying to identify loyal users, inactive users, contest winners, popular hashtags, and the best time for ad campaigns. Additionally, the project provides investor metrics such as user engagement rates and detection of fake or bot accounts. This project showcases my ability to manipulate large datasets, write efficient SQL queries, and generate actionable insights for business growth.
